@@ -21,7 +21,7 @@ import onlineShop.service.CustomerService;
 import onlineShop.service.ProductService;
 
 @Controller
-public class CartItemController {
+public class CartItemControllerok {
     @Autowired
     private CartService cartService;
 
